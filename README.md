@@ -32,11 +32,8 @@ Drone/
 │   ├── Inc/        # 底层头文件
 │   └── Src/        # 底层源文件与主函数
 ├── Drivers/        # STM32官方HAL库驱动
-├── Middlewares/    # 通用算法中间件
-├── BSP/            # 板级外设驱动代码
-├── App/            # 飞行应用层逻辑代码
+├── Sources/            # 飞行应用层逻辑代码
 ├── MDK-ARM/        # Keil编译工程文件
-├── Docs/           # 硬件原理图、引脚定义文档
 └── README.md       # 项目说明文档
 ```
 
